@@ -1,3 +1,3 @@
 # Node-js-projects
-Simple and complex node js projects
-for live demo go to https://nithinchat.herokuapp.com
+This is a Node js chat application made using socket.io.
+For live demo go to https://nithinchat.herokuapp.com
